@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempFacebookLogin</string>
+    <string name="facebook_app_id">1964696630486552</string>
+    <string name="fb_login_protocol_scheme">fb1964696630486552</string>
+</resources>
